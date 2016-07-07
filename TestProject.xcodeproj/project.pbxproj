@@ -16,6 +16,16 @@
 		CF36CFFC1C0B69840047C2F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF36CFFA1C0B69840047C2F9 /* LaunchScreen.storyboard */; };
 		CF36D0071C0B69840047C2F9 /* TestProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF36D0061C0B69840047C2F9 /* TestProjectTests.m */; };
 		CF36D0121C0B69840047C2F9 /* TestProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF36D0111C0B69840047C2F9 /* TestProjectUITests.m */; };
+		CF36D0241C0B6C970047C2F9 /* OtherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF36D0231C0B6C970047C2F9 /* OtherViewController.m */; };
+		CFAABCDA1C42E05A002FA085 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFAABCD91C42E05A002FA085 /* DetailViewController.m */; };
+		CFADE25D1CB1881B00FC618E /* SWAddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFADE25C1CB1881B00FC618E /* SWAddViewController.m */; };
+		CFDB83871C14AE5600D40F8C /* OtherOtherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFDB83861C14AE5600D40F8C /* OtherOtherViewController.m */; };
+		CFDB838A1C14AF5F00D40F8C /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFDB83891C14AF5F00D40F8C /* TableViewController.m */; };
+		CFE2D1471C67BEC2006451E0 /* San Holo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFE2D1451C67BEC2006451E0 /* San Holo.jpg */; };
+		CFE2D1481C67BEC2006451E0 /* Finn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFE2D1461C67BEC2006451E0 /* Finn.jpg */; };
+		CFF2921C1C2B0933006A70AF /* InterestingNamesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFF2921B1C2B0933006A70AF /* InterestingNamesViewController.m */; };
+		CFF2921F1C2B1063006A70AF /* NameCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CFF2921E1C2B1063006A70AF /* NameCell.m */; };
+		CFF654B91C2C71C2003D83EB /* Obi Juan Kenobi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CFF654B81C2C71C2003D83EB /* Obi Juan Kenobi.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,23 @@
 		CF36D00D1C0B69840047C2F9 /* TestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF36D0111C0B69840047C2F9 /* TestProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestProjectUITests.m; sourceTree = "<group>"; };
 		CF36D0131C0B69840047C2F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF36D0221C0B6C970047C2F9 /* OtherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OtherViewController.h; sourceTree = "<group>"; };
+		CF36D0231C0B6C970047C2F9 /* OtherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OtherViewController.m; sourceTree = "<group>"; };
+		CFAABCD81C42E05A002FA085 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		CFAABCD91C42E05A002FA085 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		CFADE25B1CB1881B00FC618E /* SWAddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWAddViewController.h; sourceTree = "<group>"; };
+		CFADE25C1CB1881B00FC618E /* SWAddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWAddViewController.m; sourceTree = "<group>"; };
+		CFDB83851C14AE5600D40F8C /* OtherOtherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OtherOtherViewController.h; sourceTree = "<group>"; };
+		CFDB83861C14AE5600D40F8C /* OtherOtherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OtherOtherViewController.m; sourceTree = "<group>"; };
+		CFDB83881C14AF5F00D40F8C /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		CFDB83891C14AF5F00D40F8C /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		CFE2D1451C67BEC2006451E0 /* San Holo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "San Holo.jpg"; sourceTree = "<group>"; };
+		CFE2D1461C67BEC2006451E0 /* Finn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Finn.jpg; sourceTree = "<group>"; };
+		CFF2921A1C2B0933006A70AF /* InterestingNamesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InterestingNamesViewController.h; sourceTree = "<group>"; };
+		CFF2921B1C2B0933006A70AF /* InterestingNamesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InterestingNamesViewController.m; sourceTree = "<group>"; };
+		CFF2921D1C2B1063006A70AF /* NameCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NameCell.h; sourceTree = "<group>"; };
+		CFF2921E1C2B1063006A70AF /* NameCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NameCell.m; sourceTree = "<group>"; };
+		CFF654B81C2C71C2003D83EB /* Obi Juan Kenobi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Obi Juan Kenobi.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,10 +130,25 @@
 		CF36CFE81C0B69840047C2F9 /* TestProject */ = {
 			isa = PBXGroup;
 			children = (
+				CFE2D1441C67BE94006451E0 /* Images */,
 				CF36CFEC1C0B69840047C2F9 /* AppDelegate.h */,
 				CF36CFED1C0B69840047C2F9 /* AppDelegate.m */,
 				CF36CFEF1C0B69840047C2F9 /* ViewController.h */,
 				CF36CFF01C0B69840047C2F9 /* ViewController.m */,
+				CF36D0221C0B6C970047C2F9 /* OtherViewController.h */,
+				CF36D0231C0B6C970047C2F9 /* OtherViewController.m */,
+				CFDB83851C14AE5600D40F8C /* OtherOtherViewController.h */,
+				CFDB83861C14AE5600D40F8C /* OtherOtherViewController.m */,
+				CFDB83881C14AF5F00D40F8C /* TableViewController.h */,
+				CFDB83891C14AF5F00D40F8C /* TableViewController.m */,
+				CFF2921A1C2B0933006A70AF /* InterestingNamesViewController.h */,
+				CFF2921B1C2B0933006A70AF /* InterestingNamesViewController.m */,
+				CFF2921D1C2B1063006A70AF /* NameCell.h */,
+				CFF2921E1C2B1063006A70AF /* NameCell.m */,
+				CFAABCD81C42E05A002FA085 /* DetailViewController.h */,
+				CFAABCD91C42E05A002FA085 /* DetailViewController.m */,
+				CFADE25B1CB1881B00FC618E /* SWAddViewController.h */,
+				CFADE25C1CB1881B00FC618E /* SWAddViewController.m */,
 				CF36CFF21C0B69840047C2F9 /* Main.storyboard */,
 				CF36CFF81C0B69840047C2F9 /* Assets.xcassets */,
 				CF36CFFA1C0B69840047C2F9 /* LaunchScreen.storyboard */,
@@ -141,6 +183,16 @@
 				CF36D0131C0B69840047C2F9 /* Info.plist */,
 			);
 			path = TestProjectUITests;
+			sourceTree = "<group>";
+		};
+		CFE2D1441C67BE94006451E0 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CFE2D1451C67BEC2006451E0 /* San Holo.jpg */,
+				CFE2D1461C67BEC2006451E0 /* Finn.jpg */,
+				CFF654B81C2C71C2003D83EB /* Obi Juan Kenobi.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -248,6 +300,9 @@
 			files = (
 				CF36CFFC1C0B69840047C2F9 /* LaunchScreen.storyboard in Resources */,
 				CF36CFF91C0B69840047C2F9 /* Assets.xcassets in Resources */,
+				CFE2D1481C67BEC2006451E0 /* Finn.jpg in Resources */,
+				CFF654B91C2C71C2003D83EB /* Obi Juan Kenobi.jpg in Resources */,
+				CFE2D1471C67BEC2006451E0 /* San Holo.jpg in Resources */,
 				CF36CFF41C0B69840047C2F9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,8 +329,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF36CFF11C0B69840047C2F9 /* ViewController.m in Sources */,
+				CF36D0241C0B6C970047C2F9 /* OtherViewController.m in Sources */,
+				CFDB83871C14AE5600D40F8C /* OtherOtherViewController.m in Sources */,
 				CF36CFEE1C0B69840047C2F9 /* AppDelegate.m in Sources */,
+				CFF2921C1C2B0933006A70AF /* InterestingNamesViewController.m in Sources */,
+				CFAABCDA1C42E05A002FA085 /* DetailViewController.m in Sources */,
+				CFF2921F1C2B1063006A70AF /* NameCell.m in Sources */,
 				CF36CFEB1C0B69840047C2F9 /* main.m in Sources */,
+				CFDB838A1C14AF5F00D40F8C /* TableViewController.m in Sources */,
+				CFADE25D1CB1881B00FC618E /* SWAddViewController.m in Sources */,
 				CF36CFF71C0B69840047C2F9 /* TestProject.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -500,6 +562,7 @@
 				CF36D0181C0B69840047C2F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF36D0191C0B69840047C2F9 /* Build configuration list for PBXNativeTarget "TestProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +571,7 @@
 				CF36D01B1C0B69840047C2F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF36D01C1C0B69840047C2F9 /* Build configuration list for PBXNativeTarget "TestProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +580,7 @@
 				CF36D01E1C0B69840047C2F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
