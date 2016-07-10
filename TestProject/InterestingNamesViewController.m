@@ -6,6 +6,13 @@
 //  Copyright © 2015 OllieCo. All rights reserved.
 //
 
+//***************************************************************************
+//
+// This is the main view controller the user will after starting the app
+//
+//***************************************************************************
+
+
 #import "InterestingNamesViewController.h"
 #import "NameCell.h"
 #import "DetailViewController.h"
